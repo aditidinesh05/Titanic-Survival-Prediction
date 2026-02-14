@@ -21,7 +21,6 @@ In this project, the complete machine learning workflow is followed:
 * Model building and evaluation
 * Visualization and interpretation of results
 
-The project is designed to be **simple for beginners**, yet **accurate, well-structured, and visually appealing**.
 
 ---
 
